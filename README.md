@@ -26,7 +26,7 @@ Link to Video of the functioning routes: ![Link]https://watch.screencastify.com/
 
 **Link to GitHub Repository**
 
-GitHub Repository: ![Link] 
+GitHub Repository: ![Link] https://github.com/haredahmed99/social-network-API.git 
 
 **Technologies Used** 
 
